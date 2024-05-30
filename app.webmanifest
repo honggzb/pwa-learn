@@ -1,0 +1,35 @@
+{
+  "name": "Codepad Masters, the best PWA in town",
+  "short_name": "Codepad Masters",
+  "start_url": "./?utm_source=pwa",
+  "orientation": "portrait",
+  "theme_color": "#ffc252",
+  "scope": "./",
+  "display": "standalone",
+  "icon": [
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "description": "This app lets you add notes while you are coding",
+  "screenshots": [
+    {
+      "src": "icons/screenshot.png",
+      "sizes": "1170x2532",
+      "type": "image/png"
+    }
+  ]
+} 
